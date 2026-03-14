@@ -1,1 +1,188 @@
-
+LogNet: Client netspeed is 100000
+LogNet: Join request: /Game/FirstPerson/Lvl_FirstPerson?Name=slamPC-2EABFB5544292BA4AA3EAEA4B857058E?SplitscreenCount=1
+LogTemp: Warning: InventoryComponent Owner=BP_FirstPersonCharacter_C_0  HasAuthority=1  LocalRole=3
+LogTemp: Warning: Inventory component ready. BaseCapacity=10
+LogTemp: Warning: Inventory initialized AFTER loadout. Capacity=20 Items=20
+LogNet: Join succeeded: slamPC-2EABFB5544292
+LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+        NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+        NumGeometrySegments changed: current: 0 - new: 512
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogTemp: Warning: InventoryComponent Owner=BP_FirstPersonCharacter_C_0  HasAuthority=0  LocalRole=2
+LogTemp: Warning: WorldItemBase -> Item added, destroying actor
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
+LogTemp: Warning: WorldItemBase -> Item added, destroying actor
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM red_orb
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM red_orb
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
+LogBlueprintUserMessages: [BP_PlayerController_C_0] Client 1: ApInv_OPEN
+LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+LogBlueprintUserMessages: [WBP_InventorySlot_UI_C_1] Client 1: OnDrag Detected
+LogBlueprintUserMessages: [WBP_InventorySlot_UI_C_0] Client 1: ONDROP EVENT START
+LogBlueprintUserMessages: [WBP_InventorySlot_UI_C_0] Client 1: SWAPPED
+LogTemp: Warning: SERVER SWAP From=1 To=0 InventorySize=20
+LogTemp: Warning: BEFORE SWAP: Slot 1 = red_orb | Slot 0 = medkit_small
+LogTemp: Warning: AFTER SWAP: Slot 1 = medkit_small | Slot 0 = red_orb
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM red_orb
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: "INV UPDATED
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: OnInventoryUpdatedUI Length= 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: 20
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 0 ITEM medkit_small
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 1 ITEM red_orb
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 2 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 3 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 4 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 5 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 6 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 7 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 8 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 9 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 10 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 11 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 12 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 13 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 14 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 15 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 16 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 17 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 18 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: SET SLOT 19 ITEM None
+LogBlueprintUserMessages: [WBP_Inventory_C_0] Client 1: Rebuild Length= 20
